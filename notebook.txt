@@ -1,0 +1,7 @@
+Date	Who	Start	Stop	Interruptions	Question	TimeOnTask	Comments
+9/12	Gaurav	5:00	6:20			5	80
+9/13	Gaurav	12:05	12:35			1	30
+9/14	Gaurav	3:00	5:00	10+20		4	90
+9/15	Gaurav	9:07	10:30	10		2	83
+9/15	Gaurav	11:00	12:00			3	60
+			
